@@ -25,3 +25,4 @@ I'm a bookworm too; you'll often find me nose-deep in fiction novels during my f
 I'm all about women's empowerment and support it actively. I volunteer and donate for Seva Bharti Girls Hostel, helping underprivileged kids finish their school education. I'm also into meditation and spirituality through the Heartfulness Organization. I've hosted over 15 college events and been part of the core organizing committee for four years.
 
 Oh, and I was one of the five people who started the Entrepreneurship Awareness Camp and founded Riyaaz Music Club in the University. We introduced students to entrepreneurs for career advice. I've also written and reported for Amogh Photography Club and Blood Donation Camps. Doing all this keeps me cool under pressure and super empathetic in my daily life.
+
