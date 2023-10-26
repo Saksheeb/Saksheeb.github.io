@@ -23,6 +23,6 @@ With the growing use of AI and new features of AI being introduced every day, or
 On one hand, it is important for companies to keep their content private to their users, but it may also be worthwhile to allow some public data scraping or crawling as people might turn towards conversational agents like ChatGPT as a replacement for traditional search engines like Google. Although no survey was found to support this theory [2].
 
 ## References
-[1] The People Onscreen Are Fake. The Disinformation Is Real. February 7th, 2023, Adam Satariano and Paul Mozur. [Online] [https://www.nytimes.com/2023/02/07/technology/artificialintelligence-training-deepfake.html](https://www.nytimes.com/2023/02/07/technology/artificialintelligence-training-deepfake.html).
+[1] testThe People Onscreen Are Fake. The Disinformation Is Real. February 7th, 2023, Adam Satariano and Paul Mozur. [Online] [https://www.nytimes.com/2023/02/07/technology/artificialintelligence-training-deepfake.html](https://www.nytimes.com/2023/02/07/technology/artificialintelligence-training-deepfake.html).
 
 [2] ChatGPT vs Google: Is ChatGPT Going to Replace Google? August 8th, 2023, Shivbhadrasinh Gohil. [Online] [https://meetanshi.com/blog/chatgpt-vs-google/](https://meetanshi.com/blog/chatgpt-vs-google/)
