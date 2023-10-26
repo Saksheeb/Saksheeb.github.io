@@ -9,7 +9,7 @@ comments: true
 ---
 
 This blog is based on the research that I am doing right now on AI Policies. [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) 
-This includes best practices.
+This includes best practices. Made more changes to this.
 
 ## Need for AI Policy
 **Why do we need AI Policy**
