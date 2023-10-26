@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: AI Policy
+subtitle: Time to re-think Security Policies
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+##gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+This blog is based on the research that I am doing right now on AI Policies. [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) 
+This includes best practices.
 
-**Here is some bold text**
-
-## Here is a secondary heading
+## Need for AI Policy
+**Why do we need AI Policy**
 
 Here's a useless table:
 
