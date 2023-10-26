@@ -1,7 +1,7 @@
 ---
 layout: post
-title:
-subtitle: Blog by Sakshee Bapat
+title: Age of Artificial Intelligence- Time to re-think Security Policies
+subtitle: Time to re-think Security Policies - Blog by Sakshee Bapat
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
