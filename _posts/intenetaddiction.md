@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Internet Addiction and results of Cognitive Overload  
+title:
 subtitle: Blog by Sakshee Bapat
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png

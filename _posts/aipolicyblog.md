@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI Policy
+title:
 subtitle: Time to re-think Security Policies
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
